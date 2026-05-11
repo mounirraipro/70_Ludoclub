@@ -1,0 +1,286 @@
+{
+  "name": "Ludo Club",
+  "domain": "ludoclub.online",
+  "slug": "ludoclub",
+  "genre": "Board Game",
+  "iframeUrl": "/game/index.html",
+  "embedUrl": "https://html5.gamemonetize.co/zwe1rvmcii5jfjddp2gnkiim5r7n3tmx/",
+  "embedSource": "GameMonetize - Ludo Club - Fun Dice Game",
+  "seo": {
+    "title": "Ludo Club Online - Free Browser Game",
+    "description": "Play Ludo Club online in your browser with no app install, clear gameplay notes, and a simple local game page.",
+    "keywords": [
+      "Ludo Club",
+      "Ludo Club online",
+      "Ludo Club free",
+      "ludo game",
+      "board game",
+      "browser game"
+    ]
+  },
+  "homepage": {
+    "heroHeadline": "Play Ludo Club Online",
+    "heroSubtitle": "Open Ludo Club in your browser and start a focused game session without installing an app from this site.",
+    "lede": "Ludo Club brings classic dice-and-token board play to the browser, with simple turns, safe squares, and tactical race decisions.",
+    "stats": [
+      {
+        "value": "Quick",
+        "label": "Browser Play"
+      },
+      {
+        "value": "Simple",
+        "label": "Controls"
+      },
+      {
+        "value": "0",
+        "label": "Downloads Needed"
+      },
+      {
+        "value": "Free",
+        "label": "Game Access"
+      }
+    ],
+    "about": {
+      "kicker": "What is Ludo Club?",
+      "headline": "A straightforward board game for browser play.",
+      "paragraph1": "Ludo Club brings classic dice-and-token board play to the browser, with simple turns, safe squares, and tactical race decisions.",
+      "paragraph2": "The site keeps the experience simple: open the Play page, let the local game wrapper load, read the on-screen cues, and play at your own pace. No account is required from this site."
+    },
+    "howToPlay": {
+      "headline": "Play Ludo Club with a clear plan.",
+      "subheading": "Learn the objective, make deliberate moves, and improve through repeat attempts."
+    },
+    "steps": [
+      {
+        "icon": "folder",
+        "title": "Open the Game",
+        "desc": "Go to the Play page and wait for the local game window to load."
+      },
+      {
+        "icon": "eye",
+        "title": "Read the Screen",
+        "desc": "Check the first prompt, board state, or objective before making a move."
+      },
+      {
+        "icon": "refresh",
+        "title": "Try a First Run",
+        "desc": "Use the first attempt to learn the controls instead of chasing a perfect result immediately."
+      },
+      {
+        "icon": "puzzle",
+        "title": "Make Deliberate Moves",
+        "desc": "Roll the dice, move your colored tokens, protect pieces when possible, and choose routes that keep more than one token useful."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Replay Smarter",
+        "desc": "After each round, adjust one habit and try again with a cleaner plan."
+      }
+    ],
+    "categories": [
+      {
+        "name": "Opening Roll",
+        "icon": "star",
+        "color": "#d97706",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Token Safety",
+        "icon": "target",
+        "color": "#2563eb",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Board Control",
+        "icon": "zap",
+        "color": "#16a34a",
+        "bg": "#dcfce7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Endgame Routes",
+        "icon": "trophy",
+        "color": "#db2777",
+        "bg": "#fce7f3",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Replay Practice",
+        "icon": "crown",
+        "color": "#7c3aed",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-5.webp"
+      }
+    ],
+    "features": [
+      {
+        "icon": "bolt",
+        "title": "Instant Browser Access",
+        "desc": "Open the local Play page and load the game without installing an app from this site."
+      },
+      {
+        "icon": "target",
+        "title": "Clear Skill Loop",
+        "desc": "Each attempt gives you a visible goal and a chance to improve one decision at a time."
+      },
+      {
+        "icon": "device",
+        "title": "Mouse and Touch Friendly",
+        "desc": "The embedded game is designed for common browser inputs on desktop and mobile screens."
+      },
+      {
+        "icon": "shield",
+        "title": "General Audience Copy",
+        "desc": "The page avoids reward promises, official-app claims, and unnecessary personal data requests."
+      },
+      {
+        "icon": "refresh",
+        "title": "Short Session Friendly",
+        "desc": "You can play a quick round, pause, and return later without a long setup flow."
+      },
+      {
+        "icon": "star",
+        "title": "Practical Tips",
+        "desc": "Guidance focuses on controls, planning, and learning the game safely."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Can I play Ludo Club online?",
+        "a": "Yes. This site opens Ludo Club through a local browser game page at /game/index.html."
+      },
+      {
+        "q": "Do I need to download Ludo Club?",
+        "a": "No app download is required from this site. The game loads in an embedded browser window."
+      },
+      {
+        "q": "Is Ludo Club an official app page?",
+        "a": "No. This is an independent browser game page that links to an external playable embed source."
+      },
+      {
+        "q": "Does the game work on mobile?",
+        "a": "The embedded game is intended for browser play and may work on mobile devices that support the source iframe."
+      },
+      {
+        "q": "What should I do if the game does not load?",
+        "a": "Refresh the page, check your connection, and make sure your browser allows embedded game frames."
+      },
+      {
+        "q": "What is the best first tip for Ludo Club?",
+        "a": "Do not move only the leading token. Keeping two pieces active gives you more options when the dice roll changes the plan."
+      }
+    ],
+    "cta": {
+      "headline": "Start a Ludo Club round now.",
+      "subtext": "Open the Play page, learn the controls, and improve through short practice runs."
+    }
+  },
+  "playPage": {
+    "howItWorksSubtitle": "Three simple steps to start playing",
+    "steps": [
+      {
+        "title": "Open Ludo Club",
+        "desc": "Visit the Play page and wait for the game frame to finish loading."
+      },
+      {
+        "title": "Learn the Controls",
+        "desc": "Use the first moments to understand clicks, taps, turns, or prompts shown inside the game."
+      },
+      {
+        "title": "Play and Adjust",
+        "desc": "Replay with one clear improvement in mind instead of rushing every move."
+      }
+    ]
+  },
+  "faqPage": {
+    "items": [
+      {
+        "q": "What is Ludo Club?",
+        "a": "Ludo Club brings classic dice-and-token board play to the browser, with simple turns, safe squares, and tactical race decisions."
+      },
+      {
+        "q": "How do I start Ludo Club?",
+        "a": "Open the Play page, wait for the iframe to load, and follow the first visible prompt inside the game."
+      },
+      {
+        "q": "Does this page require an account?",
+        "a": "This site does not require an account to open the game page."
+      },
+      {
+        "q": "Is there a guaranteed score or reward?",
+        "a": "No. The page provides casual gameplay access and practical tips only; it does not promise rewards, prizes, or scores."
+      },
+      {
+        "q": "Why is the game inside a local wrapper?",
+        "a": "The local wrapper keeps the site route consistent while the external playable source is recorded separately for tracking."
+      },
+      {
+        "q": "Can children use this page?",
+        "a": "The copy is written for a general audience, but parents should still supervise web game use and third-party embeds."
+      }
+    ]
+  },
+  "howToPlayPage": {
+    "intro": "Ludo Club is easiest to enjoy when you slow down for the first attempt, read the screen, and learn what the game asks for before trying to move faster.",
+    "steps": [
+      {
+        "title": "Load the Game",
+        "body": "Use the Play page and give the external iframe a moment to appear."
+      },
+      {
+        "title": "Check the Objective",
+        "body": "Look for the current target, board condition, timer, move limit, or turn prompt."
+      },
+      {
+        "title": "Practice the Input",
+        "body": "Make a few careful taps, clicks, or turns so the controls feel predictable."
+      },
+      {
+        "title": "Plan Before Acting",
+        "body": "Do not move only the leading token. Keeping two pieces active gives you more options when the dice roll changes the plan."
+      },
+      {
+        "title": "Review Each Attempt",
+        "body": "After a round ends, notice what caused trouble and change that single habit next time."
+      }
+    ],
+    "mechanic": "Roll the dice, move your colored tokens, protect pieces when possible, and choose routes that keep more than one token useful.",
+    "difficultyProgression": "The challenge comes from making cleaner decisions as the screen becomes busier or the available choices become tighter.",
+    "tips": [
+      "Do not move only the leading token. Keeping two pieces active gives you more options when the dice roll changes the plan.",
+      "Avoid rushing the first move before you understand the current objective.",
+      "Keep your browser focused on the game frame so clicks and taps register correctly.",
+      "If performance feels slow, close extra tabs and reload the Play page."
+    ]
+  },
+  "blog": {
+    "headline": "Ludo Club Guides and Notes",
+    "subheading": "Short, useful articles for safer and better browser play.",
+    "introParagraph": "Read practical Ludo Club tips focused on controls, planning, and steady improvement without exaggerated claims.",
+    "posts": [
+      {
+        "title": "How to Start Ludo Club in Your Browser",
+        "slug": "how-to-start-ludoclub",
+        "excerpt": "A simple first-run checklist for loading the game, reading the screen, and making your first move.",
+        "category": "Getting Started",
+        "readTime": "3 min read"
+      },
+      {
+        "title": "Beginner Tips for Ludo Club",
+        "slug": "beginner-tips-ludoclub",
+        "excerpt": "Do not move only the leading token. Keeping two pieces active gives you more options when the dice roll changes the plan.",
+        "category": "Tips",
+        "readTime": "4 min read"
+      },
+      {
+        "title": "What to Do if Ludo Club Will Not Load",
+        "slug": "ludoclub-not-loading",
+        "excerpt": "Browser settings, connection checks, and quick fixes for embedded game loading issues.",
+        "category": "Troubleshooting",
+        "readTime": "3 min read"
+      }
+    ]
+  }
+}
